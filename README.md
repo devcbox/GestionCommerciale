@@ -167,13 +167,7 @@ To use the certified-invoicing feature, a valid connection to Benin's DGI SYGMEF
 - Once authenticated, every page and action is gated by the `auth` and `can_menu:{menu},{action}` middleware pair.
 - An **Administrator** role has access to system-wide settings: companies, users, roles & menu permissions, fiscal years, payment modes, and pricing tiers.
 
----
 
-## ✅ Tests
-
-```bash
-php artisan test
-```
 
 ---
 
