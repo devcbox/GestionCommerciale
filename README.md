@@ -121,7 +121,7 @@ Every protected route declares which menu and which action (`view`, `create`, `e
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/your-account/GestionCommerciale.git
+git clone https://github.com/devcbox/GestionCommerciale.git
 cd GestionCommerciale
 
 # 2. Install PHP dependencies
